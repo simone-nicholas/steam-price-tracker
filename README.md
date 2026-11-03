@@ -138,3 +138,4 @@ Planned for later phases: Spring Data JPA, PostgreSQL, Spring Security (JWT), Wi
 ## License
 
 To be decided.# steam-price-tracker
+# steam-price-tracker
